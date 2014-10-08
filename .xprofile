@@ -1,0 +1,4 @@
+
+
+python /home/paper/Software/goagent/local/proxy.py &
+dbus-launch nm-applet &
