@@ -1,0 +1,28 @@
+mme: xterm-256color
+xterm.geometry: 80x36
+xterm*scrollBar: false
+xterm*rightScrollBar: true
+xterm*loginshell: true
+xterm*cursorBlink: true
+xterm*background:  black
+xterm*foreground:  grey
+xterm*bordercolor: red
+xterm.borderLess: false
+xterm*colorUL: yellow
+xterm*colorBD: whitein/bash: ook: command not found
+
+
+!mouse selecting to copy, ctrl-v to paste
+!Ctrl p to print screen content to file
+XTerm*VT100.Translations: #override \
+    Ctrl <KeyPress> V: insert-selection(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
+    <BtnUp>: select-end(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
+    Ctrl <KeyPress> P: print() \n
+
+XTerm*locale: true
+XTerm*utf8Title: true
+XTerm*fontMenu*fontdefault*Label: Default
+XTerm*faceNameDoublesize: WenQuanYi Zen Hei:antialias=True:pixelsize=14
+xterm*faceName: Monaco:antialias=True:pixelsize=15
+*SimpleMenu*borderColor: rgb:00/00/00 
+XTerm*inputMethod: fcitx

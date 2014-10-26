@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=AndroidStudio
+Comment=Android IDE
+Exec=/home/paper/Software/android-studio/bin/studio.sh
+Icon=/home/paper/Software/android-studio/bin/idea.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;
