@@ -19,10 +19,10 @@ XTerm*VT100.Translations: #override \
     <BtnUp>: select-end(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
     Ctrl <KeyPress> P: print() \n
 
-XTerm*locale: true
+XTerm*locale: zh_CN.UTF-8
 XTerm*utf8Title: true
 XTerm*fontMenu*fontdefault*Label: Default
-XTerm*faceNameDoublesize: WenQuanYi Zen Hei:antialias=True:pixelsize=14
+XTerm*faceNameDoublesize: WenQuanYi Micro Hei:antialias=True:pixelsize=14
 xterm*faceName: Monaco:antialias=True:pixelsize=15
 *SimpleMenu*borderColor: rgb:00/00/00 
 XTerm*inputMethod: fcitx
