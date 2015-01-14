@@ -1,11 +1,12 @@
 {
 	"folder_history":
 	[
+		"/home/paper/Dev/Other/LeetCode",
 		"/home/paper/Dev/Other/cnBlogExample",
 		"/home/paper/Dev/Other/ZhihuChrome"
 	],
 	"last_version": 3065,
-	"last_window_id": 7,
+	"last_window_id": 8,
 	"log_indexing": false,
 	"settings":
 	{
@@ -58,7 +59,14 @@
 			},
 			"file_history":
 			[
+				"/media/paper/20EA-8510/local_applets.cfg",
+				"/home/paper/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
 				"/home/paper/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/paper/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/paper/Dev/Other/ZhihuChrome/manifest.json",
+				"/home/paper/Dev/Other/ZhihuChrome/popup.js",
+				"/home/paper/Dev/Other/ZhihuChrome/background.js",
+				"/home/paper/Dev/Other/ZhihuChrome/content_script.js",
 				"/home/paper/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 				"/home/paper/Dev/Other/cnBlogExample/jquery-2.0.0.min.js",
 				"/home/paper/tmp/Linux-IPv6-HOWTO.txt",
@@ -73,7 +81,7 @@
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -87,6 +95,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"side bar",
 					"open_",
 					"open",
 					"folder",
@@ -167,48 +176,147 @@
 			{
 				"selected_items":
 				[
+					[
+						"sh",
+						"shDir"
+					],
+					[
+						"run",
+						"runBR"
+					],
+					[
+						"con",
+						"configuration"
+					],
+					[
+						"conf",
+						"confTayga"
+					],
+					[
+						"IP",
+						"IPforward"
+					],
+					[
+						"ta",
+						"taygaFake6"
+					],
+					[
+						"ip",
+						"taygaIPPool"
+					],
+					[
+						"taygaIPv",
+						"taygaIPv6"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/paper/tmp/Edison/serialPort.txt",
+					"file": "/home/paper/Dev/Other/LeetCode/SingleNumber/countingSort.cc",
 					"settings":
 					{
-						"buffer_size": 2900,
-						"line_ending": "Unix",
-						"name": "https://communities.intel.com/thread/54236"
+						"buffer_size": 44531,
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/paper/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"file": "/home/paper/Dev/Other/LeetCode/binaryTreeLevelOrderTraversalII.cc",
 					"settings":
 					{
-						"buffer_size": 157,
+						"buffer_size": 315,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/paper/Documents/draft.md",
+					"settings":
+					{
+						"buffer_size": 5145,
 						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/C++/C++.sublime-build",
 			"command_palette":
 			{
-				"height": 54.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
+						"ever",
+						"Evernote: List recent notes"
+					],
+					[
+						"eve",
+						"Evernote: List recent notes"
+					],
+					[
+						"evernot",
+						"Evernote Settings: Reconfigure Authorization"
+					],
+					[
+						"ev",
+						"Evernote Settings: User"
+					],
+					[
 						"instal",
 						"Package Control: Install Package"
+					],
+					[
+						"syntax ",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"cover",
+						"ConvertToUTF8: Reload with Encoding"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
+						"markb",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markbro",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"makr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
 						"Package Control: in",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 467.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -227,8 +335,34 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/paper/Dev/Other/LeetCode"
+			],
 			"file_history":
 			[
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Evernote.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/Evernote/README.md",
+				"/home/paper/Documents/config/sublime-text-3/Packages/Evernote/Evernote.sublime-settings",
+				"/home/paper/Dev/Galileo/Edison/2",
+				"/media/paper/20EA-8510/BorderRouter/runBR.sh",
+				"/home/paper/Dev/Galileo/Edison/startBD.sh",
+				"/home/paper/Dev/Galileo/Edison/runDB.sh",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/home/paper/Dev/Other/LeetCode/leetcode.cc",
+				"/home/paper/Dev/Other/LeetCode/singleNumber.cc",
+				"/home/paper/Documents/draft.m",
+				"/home/paper/Documents/draft.md",
+				"/home/paper/Documents/draft.mk",
+				"/home/paper/Dev/Other/LeetCode/singleNumber.cpp~",
+				"/media/paper/20EA-8510/local_applets.cfg",
 				"/home/paper/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
 				"/home/paper/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 				"/home/paper/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
@@ -264,6 +398,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ip",
+					"\"keys\": [\"ctrl+e\", \"ctrl+s\"], \"command\": \"send_to_evernote\"",
+					"ip",
+					"runDB",
+					"runBD",
+					"setConf.sh",
+					"iptables",
+					"send",
 					"side bar",
 					"open_",
 					"open",
@@ -277,6 +419,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"runBR",
+					"runBR.sh"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -284,69 +428,107 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/paper/Dev/Other/LeetCode"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/paper/tmp/Edison/serialPort.txt",
+							"file": "/home/paper/Dev/Other/LeetCode/SingleNumber/countingSort.cc",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2900,
+								"buffer_size": 44531,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										42,
-										42
+										465,
+										465
 									]
 								],
 								"settings":
 								{
-									"auto_name": "https://communities.intel.com/thread/54236",
 									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/home/paper/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
+							"file": "/home/paper/Dev/Other/LeetCode/binaryTreeLevelOrderTraversalII.cc",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 157,
+								"buffer_size": 315,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										151,
-										151
+										284,
+										284
 									]
 								],
 								"settings":
 								{
 									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+									"syntax": "Packages/C++/C++.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/paper/Documents/draft.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5145,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										345,
+										345
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3468.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -358,7 +540,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 33.0
 			},
 			"layout":
 			{
@@ -383,15 +565,19 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"position": "0,1,0,0,0,767,-4,1694,1024,1920,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -426,12 +612,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 198.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 6,
+			"window_id": 8,
 			"workspace_name": ""
 		}
 	],

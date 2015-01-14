@@ -1,9 +1,23 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2",
+		"ssl-linux"
+	],
 	"installed_packages":
 	[
 		"Codecs33",
 		"ConvertToUTF8",
 		"CTags",
-		"SideBarEnhancements"
+		"Evernote",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark"
 	]
 }

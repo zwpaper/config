@@ -1,0 +1,630 @@
+{
+	"folder_history":
+	[
+		"/home/paper/Dev/Other/LeetCode",
+		"/home/paper/Dev/Other/cnBlogExample",
+		"/home/paper/Dev/Other/ZhihuChrome"
+	],
+	"last_version": 3065,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1028.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/paper/20EA-8510/local_applets.cfg",
+				"/home/paper/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+				"/home/paper/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/paper/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/paper/Dev/Other/ZhihuChrome/manifest.json",
+				"/home/paper/Dev/Other/ZhihuChrome/popup.js",
+				"/home/paper/Dev/Other/ZhihuChrome/background.js",
+				"/home/paper/Dev/Other/ZhihuChrome/content_script.js",
+				"/home/paper/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/home/paper/Dev/Other/cnBlogExample/jquery-2.0.0.min.js",
+				"/home/paper/tmp/Linux-IPv6-HOWTO.txt",
+				"/home/paper/Downloads/Passport+Google now/╦╡├ў.txt",
+				"/home/paper/Dev/Contiki/contiki/examples/ipv6/rpl-border-router/border-router.c",
+				"/home/paper/Dev/Contiki/contiki/examples/ipv6/simple-udp-rpl/broadcast-example.c",
+				"/home/paper/Dev/Contiki/contiki/core/net/ip/simple-udp.h",
+				"/home/paper/Dev/Contiki/contiki/core/net/ip/simple-udp.c",
+				"/home/paper/Dev/Contiki/contiki/examples/cc2530dk/border-router/slip-bridge.c",
+				"/home/paper/Dev/Contiki/contiki/examples/cc2530dk/border-router/border-router.c",
+				"/home/paper/Documents/Documemets/Buy's/蓝精灵/1、开发套件资料/【7】网关实现/【3】Linux网关设计/Readme.txt"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"side bar",
+					"open_",
+					"open",
+					"folder",
+					"uip_create_linklocal_allnodes_mcast",
+					"simple_udp_register"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 927.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sh",
+						"shDir"
+					],
+					[
+						"run",
+						"runBR"
+					],
+					[
+						"con",
+						"configuration"
+					],
+					[
+						"conf",
+						"confTayga"
+					],
+					[
+						"IP",
+						"IPforward"
+					],
+					[
+						"ta",
+						"taygaFake6"
+					],
+					[
+						"ip",
+						"taygaIPPool"
+					],
+					[
+						"taygaIPv",
+						"taygaIPv6"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/paper/Dev/Other/LeetCode/SingleNumber/countingSort.cc",
+					"settings":
+					{
+						"buffer_size": 44531,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/paper/Dev/Other/LeetCode/binaryTreeLevelOrderTraversalII.cc",
+					"settings":
+					{
+						"buffer_size": 315,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/paper/Documents/draft.md",
+					"settings":
+					{
+						"buffer_size": 5348,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/C++/C++.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ever",
+						"Evernote: List recent notes"
+					],
+					[
+						"eve",
+						"Evernote: List recent notes"
+					],
+					[
+						"evernot",
+						"Evernote Settings: Reconfigure Authorization"
+					],
+					[
+						"ev",
+						"Evernote Settings: User"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax ",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"cover",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"markb",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markbro",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"makr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/paper/Dev/Other/LeetCode"
+			],
+			"file_history":
+			[
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Evernote.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/Evernote/README.md",
+				"/home/paper/Documents/config/sublime-text-3/Packages/Evernote/Evernote.sublime-settings",
+				"/home/paper/Dev/Galileo/Edison/2",
+				"/media/paper/20EA-8510/BorderRouter/runBR.sh",
+				"/home/paper/Dev/Galileo/Edison/startBD.sh",
+				"/home/paper/Dev/Galileo/Edison/runDB.sh",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/home/paper/Documents/config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/home/paper/Dev/Other/LeetCode/leetcode.cc",
+				"/home/paper/Dev/Other/LeetCode/singleNumber.cc",
+				"/home/paper/Documents/draft.m",
+				"/home/paper/Documents/draft.md",
+				"/home/paper/Documents/draft.mk",
+				"/home/paper/Dev/Other/LeetCode/singleNumber.cpp~",
+				"/media/paper/20EA-8510/local_applets.cfg",
+				"/home/paper/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+				"/home/paper/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/paper/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/paper/Dev/Other/ZhihuChrome/manifest.json",
+				"/home/paper/Dev/Other/ZhihuChrome/popup.js",
+				"/home/paper/Dev/Other/ZhihuChrome/background.js",
+				"/home/paper/Dev/Other/ZhihuChrome/content_script.js",
+				"/home/paper/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/home/paper/Dev/Other/cnBlogExample/jquery-2.0.0.min.js",
+				"/home/paper/tmp/Linux-IPv6-HOWTO.txt",
+				"/home/paper/Downloads/Passport+Google now/╦╡├ў.txt",
+				"/home/paper/Dev/Contiki/contiki/examples/ipv6/rpl-border-router/border-router.c",
+				"/home/paper/Dev/Contiki/contiki/examples/ipv6/simple-udp-rpl/broadcast-example.c",
+				"/home/paper/Dev/Contiki/contiki/core/net/ip/simple-udp.h",
+				"/home/paper/Dev/Contiki/contiki/core/net/ip/simple-udp.c",
+				"/home/paper/Dev/Contiki/contiki/examples/cc2530dk/border-router/slip-bridge.c",
+				"/home/paper/Dev/Contiki/contiki/examples/cc2530dk/border-router/border-router.c",
+				"/home/paper/Documents/Documemets/Buy's/蓝精灵/1、开发套件资料/【7】网关实现/【3】Linux网关设计/Readme.txt"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ip",
+					"\"keys\": [\"ctrl+e\", \"ctrl+s\"], \"command\": \"send_to_evernote\"",
+					"ip",
+					"runDB",
+					"runBD",
+					"setConf.sh",
+					"iptables",
+					"send",
+					"side bar",
+					"open_",
+					"open",
+					"folder",
+					"uip_create_linklocal_allnodes_mcast",
+					"simple_udp_register"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"runBR",
+					"runBR.sh"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/paper/Dev/Other/LeetCode"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/paper/Dev/Other/LeetCode/SingleNumber/countingSort.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 44531,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										465,
+										465
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/paper/Dev/Other/LeetCode/binaryTreeLevelOrderTraversalII.cc",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 315,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										284,
+										284
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/paper/Documents/draft.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5348,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4103,
+										4103
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2385.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 198.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

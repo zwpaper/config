@@ -1,8 +1,9 @@
 {
-	"theme": "DefaultPlus.sublime-theme",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"ignored_packages":
 	[
-		"Vintage"
-	]
+	],
+	"tab_size": 4,
+	"theme": "DefaultPlus.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
