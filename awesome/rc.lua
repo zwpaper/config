@@ -359,7 +359,14 @@ globalkeys = awful.util.table.join(
 --    end),
 
   -- Menubar
-  awful.key({ modkey }, "x", function() menubar.show() end),
+  --awful.key({ modkey }, "x", function() menubar.show() end),
+  awful.key({ modkey }, "x",
+    function ()
+      awful.util.spawn("dmenu_run -i -p 'Run command:' -nb '" .. 
+          beautiful.bg_normal .. "' -nf '" .. beautiful.fg_normal .. 
+          "' -sb '" .. beautiful.bg_focus .. 
+          "' -sf '" .. beautiful.fg_focus .. "'") 
+      end),
 
 
   -- {{{ Tag 0
@@ -497,7 +504,7 @@ awful.rules.rules = {
   { rule = { class = "Thunderbird", instance = "Msgcompose" },
     properties = { floating = true, above = true } },
   { rule = { class = "Thunar" },
-    properties = { tag = tags[1][7] } },
+    properties = { tag = tags[1][1] } },
   { rule = { class = "Gimp-2.8" },
     properties = { floating = true, tag = tags[1][8] } },
   { rule = { class = "gimp" },
